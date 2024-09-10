@@ -1,0 +1,1 @@
+# databricks-certified-data-engineer-associate-synechron-10092024
